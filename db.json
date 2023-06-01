@@ -10,7 +10,7 @@
         "alliances": ["House Stark", "House Targaryen"],
         "episodes": ["Winter Is Coming", "The Kingsroad", "Lord Snow", "Cripples, Bastards, and Broken Things"],
         "age": 23,
-        "image":"/images/characters/01.jpg"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622864/GOT/01_pvnyla.jpg"
       },
       {
         "id": 2,
@@ -22,7 +22,7 @@
         "alliances": ["House Targaryen", "Dothraki"],
         "episodes": ["Winter Is Coming", "The Kingsroad", "Lord Snow", "Cripples, Bastards, and Broken Things"],
         "age": 25,
-        "image":"/images/characters/02.jpeg"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622864/GOT/02_flmkl0.jpg"
       },
       {
         "id": 3,
@@ -34,7 +34,7 @@
         "alliances": ["House Lannister", "House Targaryen"],
         "episodes": ["Winter Is Coming", "The Kingsroad", "Lord Snow", "Cripples, Bastards, and Broken Things"],
         "age": 40,
-        "image":"/images/characters/03.webp"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622864/GOT/03_dnscfx.webp"
       },
       {
         "id": 4,
@@ -46,7 +46,7 @@
         "alliances": ["House Stark"],
         "episodes": ["Winter Is Coming", "The Kingsroad", "Lord Snow", "Cripples, Bastards, and Broken Things"],
         "age": 20,
-        "image":"/images/characters/04.jpg"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622864/GOT/04_pixwxv.jpg"
       },
       {
         "id": 5,
@@ -58,7 +58,7 @@
         "alliances": ["House Lannister"],
         "episodes": ["Winter Is Coming", "The Kingsroad", "Lord Snow", "Cripples, Bastards, and Broken Things"],
         "age": 45,
-        "image":"/images/characters/05.webp"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622864/GOT/05_ftrwgr.webp"
       },
       {
         "id": 6,
@@ -70,7 +70,7 @@
         "alliances": ["House Stark"],
         "episodes": ["The Wolf and the Lion", "A Golden Crown", "You Win or You Die", "The Pointy End"],
         "age": 24,
-        "image":"/images/characters/06.webp"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622864/GOT/06_bx8syy.webp"
       },
       {
         "id": 7,
@@ -82,7 +82,7 @@
         "alliances": ["House Lannister"],
         "episodes": ["The Wolf and the Lion", "A Golden Crown", "You Win or You Die", "The Pointy End"],
         "age": 40,
-        "image":"/images/characters/07.jpg"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622864/GOT/07_btz4ka.jpg"
       },
       {
         "id": 8,
@@ -94,7 +94,7 @@
         "alliances": ["House Tyrell", "House Baratheon"],
         "episodes": ["The Wolf and the Lion", "A Golden Crown", "You Win or You Die", "The Pointy End"],
         "age": 28,
-        "image":"/images/characters/08.webp"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622864/GOT/08_w9owbl.webp"
       },
       {
         "id": 9,
@@ -106,7 +106,7 @@
         "alliances": ["House Baratheon"],
         "episodes": ["The Wolf and the Lion", "A Golden Crown", "You Win or You Die", "The Pointy End"],
         "age": 47,
-        "image":"/images/characters/09.webp"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622864/GOT/09_fp0tgk.webp"
       },
       {
         "id": 10,
@@ -118,7 +118,7 @@
         "alliances": ["House Martell", "House Targaryen"],
         "episodes": ["The Wolf and the Lion", "A Golden Crown", "You Win or You Die", "The Pointy End"],
         "age": 41,
-        "image":"/images/characters/10.webp"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622864/GOT/10_msfudr.webp"
       },
       {
         "id": 11,
@@ -130,7 +130,7 @@
         "alliances": ["House Stark"],
         "episodes": ["The Mountain and the Viper", "The Watchers on the Wall", "The Children", "The Wars to Come"],
         "age": 35,
-        "image":"/images/characters/11.webp"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622865/GOT/11_mmqtag.webp"
       },
       {
         "id": 12,
@@ -142,7 +142,7 @@
         "alliances": ["Free Folk", "House Stark"],
         "episodes": ["Hardhome", "The Door", "Battle of the Bastards", "The Dragon and the Wolf"],
         "age": 45,
-        "image":"/images/characters/12.jpg"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622865/GOT/12_ghm9ds.jpg"
       },
       {
         "id": 13,
@@ -154,7 +154,7 @@
         "alliances": ["Night's Watch", "House Targaryen"],
         "episodes": ["The Children", "High Sparrow", "Book of the Stranger", "The Winds of Winter"],
         "age": 32,
-        "image":"/images/characters/13.webp"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622865/GOT/13_sk65ir.webp"
       },
       {
         "id": 14,
@@ -166,7 +166,7 @@
         "alliances": ["House Targaryen"],
         "episodes": ["The Kingsroad", "A Golden Crown", "You Win or You Die", "The Pointy End"],
         "age": 52,
-        "image":"/images/characters/14.jpg"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622865/GOT/14_ldbley.jpg"
       },
       {
         "id": 15,
@@ -178,7 +178,7 @@
         "alliances": ["House Baratheon", "House Stark"],
         "episodes": ["The Spoils of War", "Eastwatch", "Beyond the Wall", "The Dragon and the Wolf"],
         "age": 34,
-        "image":"/images/characters/15.jpg"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622865/GOT/15_abqyps.jpg"
       },
       {
         "id": 16,
@@ -190,7 +190,7 @@
         "alliances": ["House Stark", "House Baratheon"],
         "episodes": ["Blackwater", "The Lion and the Rose", "The Children", "The Iron Throne"],
         "age": 50,
-        "image":"/images/characters/16.jpg"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622865/GOT/16_eycp1i.jpg"
       },
       {
         "id": 17,
@@ -202,7 +202,7 @@
         "alliances": ["House Baratheon", "Brotherhood Without Banners"],
         "episodes": ["The North Remembers", "The Ghost of Harrenhal", "Blackwater", "The Climb"],
         "age": 400,
-        "image":"/images/characters/17.webp"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622865/GOT/17_o8520c.webp"
       },
       {
         "id": 18,
@@ -214,7 +214,7 @@
         "alliances": ["House Lannister", "House Tyrell"],
         "episodes": ["The Wolf and the Lion", "Blackwater", "The Laws of Gods and Men", "The Spoils of War"],
         "age": 40,
-        "image":"/images/characters/18.jpg"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622865/GOT/18_rfq9wt.jpg"
       },
       {
         "id": 19,
@@ -226,7 +226,7 @@
         "alliances": ["House Stark", "House Targaryen"],
         "episodes": ["The Pointy End", "The Old Gods and the New", "Mhysa", "Winterfell"],
         "age": 31,
-        "image":"/images/characters/19.webp"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622866/GOT/19_twsqm4.webp"
       },
       {
         "id": 20,
@@ -238,7 +238,7 @@
         "alliances": ["The Faceless Men"],
         "episodes": ["A Man Without Honor", "The Ghost of Harrenhal", "Valar Morghulis", "No One"],
         "age": null,
-        "image":"/images/characters/20.webp"
+        "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622864/GOT/20_ctvdnp.webp"
       }
     ],
     "houses": [
@@ -250,7 +250,7 @@
             "alliances": ["Targaryen", "Mormont"],
             "religions": ["Antiguos Dioses del Bosque"],
             "foundation": "04/05/-300",
-            "image":"/images/houses/01.webp" 
+            "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622873/GOT/01_ssiyiw.webp" 
           },
           {
             "id": 2,
@@ -260,7 +260,7 @@
             "alliances": ["Baratheon", "Tyrell"],
             "religions": ["Fe de los Siete"],
             "foundation": "01/01/-1000",
-            "image":"/images/houses/02.webp" 
+            "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622873/GOT/02_apxdpq.webp" 
           },
           {
             "id": 3,
@@ -270,7 +270,7 @@
             "alliances": ["Lannister", "Stark"],
             "religions": ["Fe de los Siete"],
             "foundation": "01/01/-500",
-            "image":"/images/houses/03.webp" 
+            "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622873/GOT/03_h3awyi.webp" 
           },
           {
             "id": 4,
@@ -280,7 +280,7 @@
             "alliances": ["Martell", "Stark"],
             "religions": ["Valyrio", "Fe de los Siete"],
             "foundation": "01/01/-126",
-            "image":"/images/houses/04.webp" 
+            "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622873/GOT/04_eyxl0k.webp" 
           },
           {
             "id": 5,
@@ -290,7 +290,7 @@
             "alliances": ["Lannister", "Baratheon"],
             "religions": ["Fe de los Siete"],
             "foundation": "01/01/-1",
-            "image":"/images/houses/05.webp" 
+            "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622873/GOT/05_vpekyr.webp" 
           },
           {
             "id": 6,
@@ -300,7 +300,7 @@
             "alliances": ["Lannister", "Bolton"],
             "religions": ["Ahogados Dioses"],
             "foundation": "01/01/-1000",
-            "image":"/images/houses/06.webp" 
+            "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622873/GOT/06_tqarss.webp" 
           },
           {
             "id": 7,
@@ -310,7 +310,7 @@
             "alliances": ["Targaryen", "Tyrell"],
             "religions": ["R'hllor"],
             "foundation": "01/01/-300",
-            "image":"/images/houses/07.webp" 
+            "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622873/GOT/07_ruzaj7.webp" 
           },
           {
             "id": 8,
@@ -320,7 +320,7 @@
             "alliances": ["Stark", "Arryn"],
             "religions": ["Fe de los Siete"],
             "foundation": "01/01/-650",
-            "image":"/images/houses/08.webp" 
+            "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622874/GOT/08_snfgjb.webp" 
           },
           {
             "id": 9,
@@ -330,7 +330,7 @@
             "alliances": ["Tully", "Stark"],
             "religions": ["Fe de los Siete"],
             "foundation": "01/01/-1000",
-            "image":"/images/houses/09.webp" 
+            "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622874/GOT/09_pvhxqc.webp" 
           },
           {
             "id": 10,
@@ -340,7 +340,7 @@
             "alliances": ["Lannister", "Greyjoy"],
             "religions": ["Antiguos Dioses del Bosque"],
             "foundation": "01/01/-600",
-            "image":"/images/houses/10.webp" 
+            "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622874/GOT/10_voegfr.webp" 
           },
           {
             "id": 11,
@@ -350,7 +350,7 @@
             "alliances": ["Lannister", "Bolton"],
             "religions": ["Fe de los Siete"],
             "foundation": "01/01/-600",
-            "image":"/images/houses/11.webp" 
+            "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622873/GOT/11_k0bdab.webp" 
           },
           {
             "id": 12,
@@ -360,7 +360,7 @@
             "alliances": ["Stark", "Targaryen"],
             "religions": ["Antiguos Dioses del Bosque"],
             "foundation": "01/01/-700",
-            "image":"/images/houses/12.webp" 
+            "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622874/GOT/12_cipbpp.webp" 
           },
           {
             "id": 13,
@@ -370,7 +370,7 @@
             "alliances": ["Tyrell", "Lannister"],
             "religions": ["Fe de los Siete"],
             "foundation": "01/01/-500",
-            "image":"/images/houses/13.webp" 
+            "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622874/GOT/13_lvxvt3.webp" 
           },
           {
             "id": 16,
@@ -380,7 +380,7 @@
             "alliances": ["Stark", "Baratheon"],
             "religions": ["Fe de los Siete"],
             "foundation": "01/01/-500",
-            "image":"/images/houses/14.webp" 
+            "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622874/GOT/14_rkg1nr.webp" 
           },
           {
             "id": 17,
@@ -390,7 +390,7 @@
             "alliances": ["Baratheon"],
             "religions": ["Fe de los Siete"],
             "foundation": "01/01/-600",
-            "image":"/images/houses/15.webp" 
+            "image":"https://res.cloudinary.com/da3lrqri1/image/upload/v1685622874/GOT/15_fc6igd.webp" 
           }
     ]
   }
